@@ -31,4 +31,4 @@ print(f"Your simplified values are, A: {A_simp} B: {B_simp}")
 print()
 print(f"Simplified form: {round(A_simp/A_simp,2)} : {round(B_simp/A_simp,2)}")
 
-#testing git commit function
+#Initial functional commit, another branch in development.
